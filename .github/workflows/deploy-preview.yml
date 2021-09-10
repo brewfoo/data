@@ -1,8 +1,7 @@
-name: Deploy
+name: Deploy Preview
 on:
-  push:
-    branches:
-      - main
+  pull_request:
+    branches: [main]
 jobs:
   firebase:
     runs-on: ubuntu-latest
@@ -18,4 +17,5 @@ jobs:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
           firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT }}"
           projectId: bsm-brewfoo
-          channelId: live
+          target: brewfoo-cdn
+          expires: 7d
