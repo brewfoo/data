@@ -1,0 +1,73 @@
+NAME,SUPPLIER,TYPE,ATTENUATION_RANGE,TEMPERATURE_RANGE
+1007 German Ale,Wyeast,German Ale,73-77,13-20
+1010 American Wheat,Wyeast,German Ale,74-78,14-23
+1026-PC British Cask Ale,Wyeast,Ale,74-78,17-22
+1028 London Ale,Wyeast,Ale,73-77,16-22
+1056 American Ale,Wyeast,Ale,73-77,16-22
+1084 Irish Ale,Wyeast,Ale,71-75,17-22
+1087-PC Wyeast Bohemian Ale Blend,Wyeast,Ale,71-75,18-22
+1098 British Ale,Wyeast,Ale,73-75,18-22
+1099 Whitbread Ale,Wyeast,Ale,68-72,18-24
+1187 Ringwood Ale,Wyeast,Ale,68-72,18-23
+1203-PC Burton IPA Blend,Wyeast,Ale,71-74,18-23
+1214 Belgian Abbey Style Ale,Wyeast,Belgian,74-78,20-26
+1217-PC West Coast IPA,Wyeast,Ale,73-80,17-23
+1272 American Ale II,Wyeast,Ale,72-76,16-22
+1275 Thames Valley Ale,Wyeast,Ale,72-76,17-22
+1318 London Ale III,Wyeast,Ale,71-75,18-23
+1332 Northwest Ale,Wyeast,Ale,67-71,18-24
+1335 British Ale II,Wyeast,Ale,73-76,17-24
+1388 Belgian Strong Ale,Wyeast,Belgian,74-78,18-27
+1450 Denny's Favorite 50 Ale,Wyeast,Ale,74-76,16-21
+1469 West Yorkshire Ale,Wyeast,Ale,67-71,18-22
+1581-PC Belgian Stout,Wyeast,Belgian,70-85,18-24
+1728 Scottish Ale,Wyeast,Ale,69-73,13-24
+1762 Belgian Abbey Style Ale II,Wyeast,Belgian,73-77,18-24
+1768-PC English Special Bitter,Wyeast,Ale,68-72,18-22
+1882-PC Thames Valley Ale II,Wyeast,Ale,72-78,16-21
+1968 London ESB Ale,Wyeast,Ale,67-71,18-22
+2000-PC Budvar Lager,Wyeast,Lager,71-75,9-13
+2001-PC Pilsner Urquell H-Strain,Wyeast,Lager,72-76,9-13
+2002-PC Gambrinus Style Lager,Wyeast,Lager,71-75,8-13
+2007 Pilsen Lager,Wyeast,Lager,71-75,9-13
+2035-PC American Lager,Wyeast,Lager,73-77,9-14
+2042-PC Danish Lager,Wyeast,Lager,73-77,8-13
+2105-PC Rocky Mountain Lager,Wyeast,Lager,70-74,9-13
+2112 California Lager,Wyeast,Lager,67-71,14-20
+2124 Bohemian Lager,Wyeast,Lager,73-77,7-20
+2206 Bavarian Lager,Wyeast,Lager,73-77,8-14
+2247-PC European Lager,Wyeast,Lager,73-77,8-13
+2272-PC North American Lager,Wyeast,Lager,70-76,11-14
+2278 Czech Pils,Wyeast,Lager,70-74,10-14
+2308 Munich Lager,Wyeast,Lager,70-74,9-13
+2352-PC Munich Lager II,Wyeast,Lager,72-74,11-17
+2487-PC Hella Bock Lager,Wyeast,Lager,70-74,9-13
+2565 Kölsch,Wyeast,Ale,73-77,13-21
+2575-PC Kölsch II,Wyeast,Ale,73-77,13-21
+2633 Octoberfest Lager Blend,Wyeast,Lager,73-77,7-14
+2782-PC Staro Prague Lager,Wyeast,Lager,70-74,10-14
+3031-PC Saison-Brett Blend,Wyeast,Special,80-90,18-27
+3056 Bavarian Wheat Blend,Wyeast,German Ale,73-77,18-23
+3068 Weihenstephan Weizen,Wyeast,German Ale,73-77,18-24
+3191-PC Berliner Weisse Blend,Wyeast,Special,73-77,20-22
+3209-PC Oud Bruin Ale Blend,Wyeast,Belgian,70-80,27-29
+3278 Belgian Lambic Blend,Wyeast,Belgian,70-80,17-24
+3333-PC German Wheat,Wyeast,German Ale,70-76,17-24
+3463-PC Forbidden Fruit,Wyeast,Special,72-76,17-24
+3522 Belgian Ardennes,Wyeast,Belgian,72-76,18-24
+3538-PC Leuven Pale Ale,Wyeast,Belgian,75-78,18-27
+3638 Bavarian Wheat,Wyeast,German Ale,70-76,18-24
+3655-PC Belgian Schelde Ale,Wyeast,Belgian,73-77,17-23
+3711 French Saison,Wyeast,Belgian,77-83,18-25
+3724 Belgian Saison,Wyeast,Belgian,76-80,21-35
+3725-PC Bière de Garde,Wyeast,Belgian,74-79,21-29
+3726 Farmhouse Ale,Wyeast,Belgian,74-79,21-29
+3739-PC Flanders Golden Ale,Wyeast,Belgian,74-78,18-27
+3763 Roeselare Ale Blend,Wyeast,Belgian,80-80,18-29
+3787 Trappist Style High Gravity,Wyeast,Belgian,74-78,18-26
+3789-PC Trappist Style Blend,Wyeast,Belgian,75-80,20-29
+3822-PC Belgian Dark Ale,Wyeast,Belgian,74-79,18-27
+3864-PC Canadian/Belgian Ale,Wyeast,Belgian,75-79,18-27
+3942-PC Belgian Wheat,Wyeast,Belgian,72-76,18-23
+3944 Belgian Witbier,Wyeast,Belgian,72-76,17-24
+9097-PC Old Ale Blend,Wyeast,Ale,75-80,20-24

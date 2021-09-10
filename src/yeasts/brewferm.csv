@@ -1,0 +1,4 @@
+NAME,SUPPLIER,TYPE,ATTENUATION_RANGE,TEMPERATURE_RANGE
+Blanche,Brewferm,Belgian,76-80,18-24
+Lager,Brewferm,Lager,79-83,12-15
+Top,Brewferm,Ale,70-74,18-25

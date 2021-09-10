@@ -1,0 +1,32 @@
+NAME,ORIGIN,SUPPLIER,TYPE,GRAIN_TYPE,COLOR,EXTRACTION,POWER
+Amber Malt,United Kingdom,Crisp,Grain,Roasted,28,69,
+Best Ale Malt,United Kingdom,Crisp,Grain,Base,3,82,50
+Black Malt,United Kingdom,Crisp,Grain,Roasted,500,69,
+Brown Malt,United Kingdom,Crisp,Grain,Roasted,63,69,
+Cara Gold,United Kingdom,Crisp,Grain,Crystal,6,69,
+Cara Malt,United Kingdom,Crisp,Grain,Crystal,12,69,
+Chocolate Malt,United Kingdom,Crisp,Grain,Roasted,380,69,
+Clear Choice Malt Ale,United Kingdom,Crisp,Grain,Base,2.5,81,50
+Clear Choice Malt Extra Pale,United Kingdom,Crisp,Grain,Base,1.7,81,55
+Dark Crystal,United Kingdom,Crisp,Grain,Crystal,170,69,
+Dextrin Malt,United Kingdom,Crisp,Grain,Special,1.7,79,
+Europils Malt,United Kingdom,Crisp,Grain,Base,1.7,81,66
+Extra Pale Malt,United Kingdom,Crisp,Grain,Base,1.7,82,55
+Extra Pale Maris Otter Malt,United Kingdom,Crisp,Grain,Base,1.7,81,55
+Finest Maris Otter Ale Malt,United Kingdom,Crisp,Grain,Base,3,81,50
+Light Crystal,United Kingdom,Crisp,Grain,Crystal,65,69,
+Medium Crystal,United Kingdom,Crisp,Grain,Crystal,100,69,
+Munich Malt,United Kingdom,Crisp,Grain,Kilned,14,79,30
+Naked Oat Malt,United Kingdom,Crisp,Grain,Special,1.4,75,17
+Organic Ale Malt,United Kingdom,Crisp,Grain,Base,3.2,81,50
+Organic Extra Pale Malt,United Kingdom,Crisp,Grain,Base,1.7,81,50
+Roast Barley,United Kingdom,Crisp,Grain,Roasted,500,69,
+Rye Malt,United Kingdom,Crisp,Grain,Special,12,86,62
+Toasted Wheat Malt,United Kingdom,Crisp,Grain,Special,11,85,67
+Torrefied Barley,United Kingdom,Crisp,Grain,Adjunct,1.9,82,
+Torrefied Maize,United Kingdom,Crisp,Grain,Adjunct,1.0,86,
+Torrefied Oats,United Kingdom,Crisp,Grain,Adjunct,1.9,77,
+Torrefied Rice,United Kingdom,Crisp,Grain,Adjunct,1.0,80,
+Torrefied Wheat,United Kingdom,Crisp,Grain,Adjunct,1.9,82,
+Vienna Malt,United Kingdom,Crisp,Grain,Kilned,3.5,80,50
+Wheat Malt,United Kingdom,Crisp,Grain,Special,2,84,143

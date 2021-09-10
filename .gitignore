@@ -1,0 +1,6 @@
+.firebase/
+.rubocop-https-*
+bin/
+lib/
+node_modules/
+*~

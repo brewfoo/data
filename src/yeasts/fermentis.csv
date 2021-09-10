@@ -1,0 +1,14 @@
+NAME,SUPPLIER,TYPE,ATTENUATION_RANGE,TEMPERATURE_RANGE
+SafAle BE-134,Fermentis,Belgian,89-93,18-28
+SafAle BE-256,Fermentis,Belgian,82-86,15-20
+SafAle K-97,Fermentis,German Ale,80-84,15-20
+SafAle S-04,Fermentis,Ale,76-80,15-20
+SafAle S-33,Fermentis,Ale,68-72,15-20
+SafAle T-58,Fermentis,Belgian,73-77,15-20
+SafAle US-05,Fermentis,Ale,78-82,18-28
+SafAle WB-06,Fermentis,German Ale,86-90,18-24
+SafBrew LA-01,Fermentis,Special,13-17,10-25
+SafBrew HA-18,Fermentis,Special,98-102,25-35
+SafLager S-23,Fermentis,Lager,78-84,12-15
+SafLager S-189,Fermentis,Lager,80-84,12-15
+SafLager W-34/70,Fermentis,Lager,80-84,12-15

@@ -1,0 +1,54 @@
+NAME,SUPPLIER,TYPE,ATTENUATION_RANGE,TEMPERATURE_RANGE
+WLP001 California,White Labs,Ale,73-80,20-23
+WLP002 English,White Labs,Ale,63-70,18-20
+WLP004 Irish,White Labs,Ale,69-74,18-20
+WLP005 British,White Labs,Ale,67-74,18-21
+WLP007 Dry English,White Labs,Ale,70-80,18-21
+WLP008 East Coast,White Labs,Ale,70-75,20-23
+WLP013 London,White Labs,Ale,67-75,19-22
+WLP023 Burton,White Labs,Ale,69-75,20-23
+WLP028 Edinburgh Scottish,White Labs,Ale,70-75,18-21
+WLP029 German/Kölsch,White Labs,Ale,72-78,18-21
+WLP036 Düsseldorf Alt,White Labs,Ale,65-72,18-21
+WLP041 Pacific,White Labs,Ale,65-70,18-20
+WLP051 California V,White Labs,Ale,70-75,19-21
+WLP060 American Blend,White Labs,Ale,72-80,20-22
+WLP066 London Fog,White Labs,Ale,75-82,18-22
+WLP067 Coastal Haze Blend,White Labs,Ale,70-75,20-22
+WLP080 Cream Blend,White Labs,Ale,75-80,18-21
+WLP090 San Diego Super,White Labs,Ale,76-83,18-20
+WLP095 Burlington,White Labs,Ale,73-78,19-21
+WLP099 Super High Gravity,White Labs,Ale,80-85,18-20
+WLP800 Pilsner,White Labs,Lager,72-77,10-13
+WLP802 Czech Budějovice,White Labs,Lager,75-80,10-13
+WLP810 San Francisco,White Labs,Lager,65-70,14-19
+WLP820 Oktoberfest/Märzen,White Labs,Lager,65-73,11-14
+WLP830 German,White Labs,Lager,74-79,10-13
+WLP833 German Bock,White Labs,Lager,70-76,9-13
+WLP838 Southern German,White Labs,Lager,68-76,10-13
+WLP840 American,White Labs,Lager,75-80,10-13
+WLP850 Copenhagen,White Labs,Lager,72-78,10-14
+WLP1983 Charlie's Fist Bump,White Labs,Lager,66-70,13-14
+WLP920 Old Bavarian,White Labs,Lager,66-73,10-13
+WLP925 High Pressure,White Labs,Lager,73-82,17-20
+WLP940 Mexican,White Labs,Lager,70-78,10-13
+WLP300 Hefeweizen,White Labs,German Ale,72-76,20-22
+WLP320 American Hefeweizen,White Labs,German Ale,70-75,18-21
+WLP351 Bavarian Weizen,White Labs,German Ale,73-77,19-21
+WLP380 Hefeweizen IV,White Labs,German Ale,73-80,19-21
+WLP400 Belgian Wit,White Labs,Belgian,74-78,19-23
+WLP410 Belgian Wit II,White Labs,Belgian,70-75,19-23
+WLP500 Monastery,White Labs,Belgian,75-80,18-22
+WLP510 Bastogne Belgian,White Labs,Belgian,74-80,19-22
+WLP518 Opshaug Kveik,White Labs,Kveik,70-80,25-35
+WLP530 Abbey,White Labs,Belgian,75-80,19-22
+WLP540 Abbey IV,White Labs,Belgian,74-82,19-22
+WLP545 Belgian Strong,White Labs,Belgian,78-85,19-22
+WLP550 Belgian,White Labs,Belgian,78-85,20-26
+WLP565 Belgian Saison I,White Labs,Belgian,65-75,20-24
+WLP566 Belgian Saison II,White Labs,Belgian,78-85,20-26
+WLP568 Belgian-Style Saison Blend,White Labs,Belgian,70-80,21-27
+WLP570 Belgian Golden,White Labs,Belgian,73-78,20-24
+WLP575 Belgian-Style Blend,White Labs,Belgian,74-80,20-24
+WLP590 French Saison,White Labs,Belgian,73-80,21-24
+WLP644 Saccharomyces 'bruxellensis' Trois,White Labs,Special,85-90,21-29

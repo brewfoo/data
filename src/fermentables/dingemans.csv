@@ -1,0 +1,18 @@
+NAME,ORIGIN,SUPPLIER,TYPE,GRAIN_TYPE,COLOR,EXTRACTION,POWER
+Amber,Belgium,Dingemans,Malt Extract,Kilned,19,79,30
+Aroma 100,Belgium,Dingemans,Malt Extract,Kilned,38,77,
+Aroma 150,Belgium,Dingemans,Malt Extract,Kilned,57,77,
+Aromatic,Belgium,Dingemans,Malt Extract,Kilned,19,79,30
+Biscuit,Belgium,Dingemans,Malt Extract,Roasted,23,75,
+Cara 120,Belgium,Dingemans,Malt Extract,Crystal,45,74,
+Cara 20,Belgium,Dingemans,Malt Extract,Crystal,8,75,
+Cara 50,Belgium,Dingemans,Malt Extract,Crystal,20,75,
+Mroost 1400,Belgium,Dingemans,Malt Extract,Roasted,530,70,
+Mroost 900,Belgium,Dingemans,Malt Extract,Roasted,340,70,
+Munich,Belgium,Dingemans,Malt Extract,Kilned,6,80,30
+Pale Ale,Belgium,Dingemans,Malt Extract,Base,3.8,80,50
+Pealed Roasted Barley,Belgium,Dingemans,Malt Extract,Roasted,453,70,
+Pilsen,Belgium,Dingemans,Malt Extract,Base,1.6,80,70
+Special B,Belgium,Dingemans,Malt Extract,Crystal,125,72,
+Toasted Wheat,Belgium,Dingemans,Malt Extract,Roasted,12,75,
+Wheat,Belgium,Dingemans,Malt Extract,Special,1.6,83,60

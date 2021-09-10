@@ -1,0 +1,11 @@
+NAME,SUPPLIER,TYPE,ATTENUATION_RANGE,TEMPERATURE_RANGE
+LalBrew Abbaye,Lallemand,Belgian,76-80,17-25
+LalBrew Belle Saison,Lallemand,Belgian,80-84,15-35
+LalBrew BRY-97,Lallemand,Ale,72-76,15-22
+LalBrew Diamond,Lallemand,Lager,76-80,10-15
+LalBrew London,Lallemand,Ale,68-72,18-22
+LalBrew Wit,Lallemand,German Ale,72-76,17-22
+LalBrew Munich,Lallemand,German Ale,72-76,17-22
+LalBrew Windsor,Lallemand,Ale,68-72,15-22
+LalBrew Nottingham,Lallemand,Ale,76-80,10-22
+LalBrew Voss,Lallemand,Kveik,72-76,35-40

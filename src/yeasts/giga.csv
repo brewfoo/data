@@ -1,0 +1,29 @@
+NAME,SUPPLIER,TYPE,ATTENUATION_RANGE,TEMPERATURE_RANGE
+GY001 Norcal Ale #1,GigaYeast,Ale,76-80,18-25
+GY002 Czech Pilsner,GigaYeast,Lager,75-79,9-13
+GY003 'A Touch of Spice' Belgian Ale,GigaYeast,Belgian,80-84,20-25
+GY005 Golden Gate Lager,GigaYeast,Lager,79-83,13-21
+GY007 Belgian Mix,GigaYeast,Belgian,78-82,19-25
+GY011 British Ale #1,GigaYeast,Ale,75-79,18-25
+GY014 Belgian Abbey Ale,GigaYeast,Belgian,78-82,18-27
+GY015 Belgian Tripel,GigaYeast,Belgian,73-77,19-23
+GY016 Altstadt Ale,GigaYeast,German Ale,77-81,13-20
+GY017 Bavarian Hefe,GigaYeast,German Ale,77-81,18-27
+GY018 Saison #1,GigaYeast,Belgian,80-84,18-27
+GY020 Portland Hefe,GigaYeast,German Ale,76-80,18-23
+GY021 Kölsch Bier,GigaYeast,German Ale,79-83,16-22
+GY027 Saison #2,GigaYeast,Belgian,79-83,18-27
+GY028 Belgian Wit,GigaYeast,Belgian,75-79,18-27
+GY030 American Lager,GigaYeast,Lager,79-83,9-16
+GY031 British Ale #2,GigaYeast,Ale,79-83,18-24
+GY044 Scotch Ale #1,GigaYeast,Ale,79-83,18-24
+GY045 German Lager,GigaYeast,Lager,74-78,10-16
+GY045 German Lager,GigaYeast,Lager,74-78,10-16
+GY047 Saison Blend,GigaYeast,Belgian,79-83,18-27
+GY048 Golden Pear Belgian,GigaYeast,Belgian,82-86,18-27
+GY054 Vermont IPA,GigaYeast,Ale,78-82,17-24
+GY077 Quebec Abbey Ale,GigaYeast,Belgian,79-83,20-27
+GY080 Irish Stout,GigaYeast,Ale,82-86,18-22
+GY094 German Ale,GigaYeast,Ale,74-78,18-22
+GY134 Kveik #1,GigaYeast,Kveik,74-78,27-38
+GY135 Hornindal Kveik #5,GigaYeast,Kveik,75-79,21-38
